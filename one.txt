@@ -4,4 +4,8 @@ Hey there! I am
 2024 is coming!!!!
 
 
+<<<<<<< HEAD
 20255555 rkhte hai
+=======
+30300000 was there
+>>>>>>> mac-fix

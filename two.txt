@@ -1,8 +1,5 @@
 Helloooooooo
 
-<<<<<<< HEAD
-github file
-=======
 
 american chase
->>>>>>> 5daf23b... chase
+1

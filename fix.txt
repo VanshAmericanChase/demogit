@@ -1,9 +1,7 @@
 new file for errors ceated
 
 
-<<<<<<< HEAD
 vansh
-=======
 
 banshhh
->>>>>>> fix-lap
+
